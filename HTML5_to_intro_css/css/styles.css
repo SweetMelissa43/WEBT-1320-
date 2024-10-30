@@ -1,3 +1,11 @@
 body {
-    background-color: lightyellow;
+    background-color: rgb(190, 190, 156);
+}
+
+#container {
+    background-color: darkgrey;
+    width: 1200px;
+    margin: 20px auto;
+    border: 2px solid black;
+    padding: 20px;
 }
