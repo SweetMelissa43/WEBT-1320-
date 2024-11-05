@@ -1,4 +1,9 @@
 WEBT-1320
 
-<a href="HTML5_to_intro_css" target=_blank>HTML to intro css</a>
-<a href="adv_css" target=_blank>advanced css</a>
+
+
+<ul>
+    <li><a href="HTML5_to_intro_css/index.html" target=_blank>HTML to intro css</a></li>
+    <li><a href="adv_css/index.html" target=_blank>Advanced CSS</a></li>
+</ul>
+
