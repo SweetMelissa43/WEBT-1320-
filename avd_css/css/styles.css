@@ -1,0 +1,87 @@
+body {
+    background-color: rgb(243, 243, 236);
+}
+
+#container {
+    background-color: darkgrey;
+    width: 65%;
+    margin: 20px auto;
+    border: 2px solid black;
+    padding: 20px;
+}
+
+#banner {
+    width: 90%;    
+}
+
+#col1 {
+    width: 50%;
+    border: 2px solid black;
+    margin: 20px;
+    padding: 20px;
+}
+
+#col2 {
+    width: 50%;
+    border: 2px solid black;
+    margin: 20px;
+    padding: 20px;
+}
+
+.heading_style {
+    text-shadow: 2px 1px 2px #1e08e0;
+}
+
+.pic_helen {
+    width: 60%;
+}
+
+img {
+    display: block;
+    margin: 0 auto;
+    width: 100%;
+}
+
+nav {
+    text-align: center;
+    margin: 20px 0;
+    background-color: gainsboro;
+    border-radius: 20px;
+}
+
+nav ul {
+    list-style-type: none;
+    padding: 0;
+}
+
+nav li {
+    display: inline-block;
+}
+
+nav li a {
+    display: block;
+    color: rgb(17, 45, 207);
+    font-size: 25px;
+    font-weight: bold;
+    text-decoration: none;
+    margin: 0 30px;
+    width: 125px;
+    height: 50px;
+    line-height: 50px;
+}
+
+nav a:hover {
+    background-color: white;
+    color: black;
+}
+
+#two_col {
+    display: flex;
+}
+
+h1, 
+h2, 
+h3,
+footer {
+    text-align: center;
+}
